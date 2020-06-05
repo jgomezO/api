@@ -1,16 +1,38 @@
 {
-"users":[
+  "courses":[
     {
-    "userId": 1,
-    "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-  }
+      "Id": 1,
+      "Name": "Course 1",
+      "StartDate": "", 
+      "EndDate": "",
+      "ImageUrl": "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "Fragment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
+      "UniqueName": "course-1"
+    },
+    { 
+      "Id": 2, 
+      "Name": "Course 2", 
+      "StartDate": "", 
+      "EndDate": "", 
+      "ImageUrl": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
+      "Fragment": "", 
+      "UniqueName": "course-2" },
+    { 
+      "Id": 3, 
+      "Name": "Course 3", 
+      "StartDate": "", 
+      "EndDate": "", 
+      "ImageUrl": "https://images.pexels.com/photos/333850/pexels-photo-333850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
+      "Fragment": "", 
+      "UniqueName": "course-3" },
+    { 
+      "Id": 4, 
+      "Name": "Course 4", 
+      "StartDate": "", 
+      "EndDate": "", 
+      "ImageUrl": "https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
+      "Fragment": "", 
+      "UniqueName": "course-4" 
+    }
   ]
 }
