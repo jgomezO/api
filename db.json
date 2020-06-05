@@ -1,4 +1,6 @@
-[
-{"name": "John"},
-{"name": "Javier"}
-]
+{
+users:[
+    {"name": "John"},
+    {"name": "Javier"}
+  ]
+{
