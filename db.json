@@ -1,7 +1,7 @@
 {
   "courses":[
     {
-      "Id": 1,
+      "id": 1,
       "Name": "Course 1",
       "StartDate": "", 
       "EndDate": "",
@@ -10,7 +10,7 @@
       "UniqueName": "course-1"
     },
     { 
-      "Id": 2, 
+      "id": 2, 
       "Name": "Course 2", 
       "StartDate": "", 
       "EndDate": "", 
@@ -18,7 +18,7 @@
       "Fragment": "", 
       "UniqueName": "course-2" },
     { 
-      "Id": 3, 
+      "id": 3, 
       "Name": "Course 3", 
       "StartDate": "", 
       "EndDate": "", 
@@ -26,7 +26,7 @@
       "Fragment": "", 
       "UniqueName": "course-3" },
     { 
-      "Id": 4, 
+      "id": 4, 
       "Name": "Course 4", 
       "StartDate": "", 
       "EndDate": "", 
