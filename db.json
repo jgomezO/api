@@ -8,7 +8,9 @@
       "ImageUrl": "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "Fragment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
       "UniqueName": "course-1",
-      "Description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula"
+      "Description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
+      "InstructorName":"Sara Carson",
+      "InstructorTitle": "Teacher at the NY School"
     },
     { 
       "id": "course-2", 
@@ -17,7 +19,11 @@
       "EndDate": "", 
       "ImageUrl": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
       "Fragment": "", 
-      "UniqueName": "course-2" },
+      "UniqueName": "course-2",
+      "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
+      "InstructorName":"Mark Robson",
+      "InstructorTitle": "High School Professor"
+    },
     { 
       "id": "course-3", 
       "Name": "Course 3", 
@@ -25,7 +31,11 @@
       "EndDate": "", 
       "ImageUrl": "https://images.pexels.com/photos/333850/pexels-photo-333850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
       "Fragment": "", 
-      "UniqueName": "course-3" },
+      "UniqueName": "course-3",
+      "Description": "Description 3",
+      "InstructorName":"Sara Carson",
+      "InstructorTitle": "Teacher at the NY School"
+     },
     { 
       "id": "course-4", 
       "Name": "Course 4", 
@@ -33,7 +43,10 @@
       "EndDate": "", 
       "ImageUrl": "https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
       "Fragment": "", 
-      "UniqueName": "course-4" 
+      "UniqueName": "course-4",
+      "Description": "Description 4",
+      "InstructorName":"James Schiffer",
+      "InstructorTitle": "PHD"
     }
   ]
 }
