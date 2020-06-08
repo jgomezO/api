@@ -22,7 +22,8 @@
       "UniqueName": "course-2",
       "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
       "InstructorName":"Mark Robson",
-      "InstructorTitle": "High School Professor"
+      "InstructorTitle": "High School Professor",
+      "FormId": "form-course-2"
     },
     { 
       "id": "course-3", 
