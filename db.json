@@ -7,7 +7,8 @@
       "EndDate": "",
       "ImageUrl": "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "Fragment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
-      "UniqueName": "course-1"
+      "UniqueName": "course-1",
+      "Description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula"
     },
     { 
       "id": "course-2", 
