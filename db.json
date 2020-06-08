@@ -52,6 +52,7 @@
 
   "merchant":{
     "name":"Stripe",
-    "currency": "USD"
+    "currency": "USD",
+    "publicKey": "pk_test_ArPEtZjXC6KDBV9nkiiXK6b1"
   }
 }
