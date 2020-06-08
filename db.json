@@ -48,5 +48,10 @@
       "InstructorName":"James Schiffer",
       "InstructorTitle": "PHD"
     }
-  ]
+  ],
+
+  "merchant":{
+    "name":"Stripe",
+    "currency": "USD"
+  }
 }
