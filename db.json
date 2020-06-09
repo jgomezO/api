@@ -10,7 +10,8 @@
       "UniqueName": "course-1",
       "Description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet felis ut pellentesque interdum. Donec justo orci, pulvinar non mauris eget, aliquet iaculis ligula",
       "InstructorName":"Sara Carson",
-      "InstructorTitle": "Teacher at the NY School"
+      "InstructorTitle": "Teacher at the NY School",
+      "InstructorImage": "https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=ji6Xj8tv"
     },
     { 
       "id": "course-2", 
@@ -23,6 +24,7 @@
       "Description" : "What is contemporary art? In this course, you’ll consider this question through more than 70 works of art made between 1980 and the present, with a focus on art from the past decade. You’ll hear directly from artists, architects, and designers from around the globe about their creative processes, materials, and inspiration.\n Five themes serve as your guide: Media from Television to the Internet, Territories & Transit, Materials & Making, Agency, and Power. You’ll look at 3-D–printed glass and fiber sculptures, performances in a factory and a museum, painted portraits—as well as those made with artificial intelligence—and interventions into television and video games. And much more, all drawn from the collection of The Museum of Modern Art. \n Come along as artists invite us into their studios, out into their neighborhoods, and to experiment with the materials they use. Not only will you develop a deeper understanding of how artists work today, you’ll also explore some of their many approaches to the pressing issues and questions of our time. By taking this course, you’ll gain confidence to look at contemporary art wherever you encounter it and make connections to your own life or creative practice.",
       "InstructorName":"Mark Robson",
       "InstructorTitle": "High School Professor",
+      "InstructorImage": "https://cdn.now.howstuffworks.com/media-content/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
       "FormId": "form-course-2"
     },
     { 
@@ -34,8 +36,9 @@
       "Fragment": "", 
       "UniqueName": "course-3",
       "Description": "Description 3",
-      "InstructorName":"Sara Carson",
-      "InstructorTitle": "Teacher at the NY School"
+      "InstructorName":"Thomas Waine",
+      "InstructorTitle": "Teacher at the NY School",
+      "InstructorImage": "https://c.tribune.com.pk/2017/07/1468415-zayn-1501217623.jpg"
      },
     { 
       "id": "course-4", 
@@ -47,13 +50,8 @@
       "UniqueName": "course-4",
       "Description": "Description 4",
       "InstructorName":"James Schiffer",
-      "InstructorTitle": "PHD"
+      "InstructorTitle": "PHD",
+      "InstructorImage": "https://www.impartialreporter.com/resources/images/9762286?type=responsive-gallery-fullscreen"
     }
-  ],
-
-  "merchant":{
-    "name":"Stripe",
-    "currency": "USD",
-    "publicKey": "pk_test_ArPEtZjXC6KDBV9nkiiXK6b1"
-  }
+  ]
 }
