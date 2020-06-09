@@ -2,7 +2,7 @@
   "courses":[
     {
       "id": "course-1",
-      "Name": "Course 1",
+      "Name": "Summer Camp 2020",
       "StartDate": "2020-06-20", 
       "EndDate": "2020-07-20",
       "ImageUrl": "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
@@ -15,7 +15,7 @@
     },
     { 
       "id": "course-2", 
-      "Name": "Course 2", 
+      "Name": "All About Contemporary Art", 
       "StartDate": "2020-06-20", 
       "EndDate": "2020-07-20", 
       "ImageUrl": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
@@ -29,7 +29,7 @@
     },
     { 
       "id": "course-3", 
-      "Name": "Course 3", 
+      "Name": "Summercamp 2020 Edition II", 
       "StartDate": "2020-08-20", 
       "EndDate": "2020-09-20", 
       "ImageUrl": "https://images.pexels.com/photos/333850/pexels-photo-333850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
@@ -42,7 +42,7 @@
      },
     { 
       "id": "course-4", 
-      "Name": "Course 4", 
+      "Name": "Painting", 
       "StartDate": "2020-08-20", 
       "EndDate": "2020-09-20",
       "ImageUrl": "https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260", 
