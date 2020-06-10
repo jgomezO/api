@@ -105,26 +105,55 @@
       }
     }
   ],
-
   "coursePrincings": [
     {
-      "GeneralAccess":{
-        "earlyBirdEligible": false,
-        "PriceAfterTax": 200,
-        "EarlyBirdPriceAfterTaxes": 100
-      }
+      "CourseId":"course-1",
+      "Pricings": [
+        {
+          "GeneralAccess":{
+            "earlyBirdEligible": false,
+            "PriceAfterTax": 200,
+            "EarlyBirdPriceAfterTaxes": 100
+          }
+        },
+        {
+          "MembershipProgramId": "membership-1",
+          "earlyBirdEligible": true,
+          "PriceAfterTax": 100,
+          "EarlyBirdPriceAfterTaxes": 50
+        },
+        {
+          "MembershipProgramId": "membership-2",
+          "earlyBirdEligible": true,
+          "PriceAfterTax": 150,
+          "EarlyBirdPriceAfterTaxes": 100
+        }
+      ]
     },
     {
-      "MembershipProgramId": "membership-1",
-      "earlyBirdEligible": true,
-      "PriceAfterTax": 100,
-      "EarlyBirdPriceAfterTaxes": 50
-    },
-    {
-      "MembershipProgramId": "membership-2",
-      "earlyBirdEligible": true,
-      "PriceAfterTax": 150,
-      "EarlyBirdPriceAfterTaxes": 100
+      "CourseId":"course-2",
+      "Pricings": [
+        {
+          "GeneralAccess":{
+            "earlyBirdEligible": false,
+            "PriceAfterTax": 1000,
+            "EarlyBirdPriceAfterTaxes": 850
+          }
+        },
+        {
+          "MembershipProgramId": "membership-1",
+          "earlyBirdEligible": true,
+          "PriceAfterTax": 800,
+          "EarlyBirdPriceAfterTaxes": 800
+        },
+        {
+          "MembershipProgramId": "membership-2",
+          "earlyBirdEligible": true,
+          "PriceAfterTax": 250,
+          "EarlyBirdPriceAfterTaxes": 100
+        }
+      ]
     }
   ]
+
 }
