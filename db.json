@@ -91,6 +91,7 @@
       "Name": "John Gomez",
       "Email": "john.gomez@veevart.com",
       "membership": {
+        "Id":"membership-1",
         "Name": "Individual"
       }
     },
@@ -99,8 +100,31 @@
       "Name": "James Corden",
       "Email": "james.corden@veevart.com",
       "membership": {
-        "Name": "Individual"
+        "Id":"membership-2",
+        "Name": "Dual/Family"
       }
+    }
+  ],
+
+  "coursePrincings": [
+    {
+      "GeneralAccess":{
+        "earlyBirdEligible": false,
+        "PriceAfterTax": 200,
+        "EarlyBirdPriceAfterTaxes": 100
+      }
+    },
+    {
+      "MembershipProgramId": "membership-1",
+      "earlyBirdEligible": true,
+      "PriceAfterTax": 100,
+      "EarlyBirdPriceAfterTaxes": 50
+    },
+    {
+      "MembershipProgramId": "membership-2",
+      "earlyBirdEligible": true,
+      "PriceAfterTax": 150,
+      "EarlyBirdPriceAfterTaxes": 100
     }
   ]
 }
