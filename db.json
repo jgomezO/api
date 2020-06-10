@@ -87,7 +87,7 @@
   ],
   "users": [
     {
-      "id": "user-1",
+      "Id": "user-1",
       "Name": "John Gomez",
       "Email": "john.gomez@veevart.com",
       "membership": {
@@ -95,7 +95,7 @@
       }
     },
     {
-      "id": "user-2",
+      "Id": "user-2",
       "Name": "James Corden",
       "Email": "james.corden@veevart.com",
       "membership": {
