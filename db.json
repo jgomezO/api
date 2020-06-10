@@ -84,5 +84,23 @@
         }
       ]
     }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "Name": "John Gomez",
+      "Email": "john.gomez@veevart.com",
+      "membership": {
+        "Name": "Individual"
+      }
+    },
+    {
+      "id": "user-2",
+      "Name": "James Corden",
+      "Email": "james.corden@veevart.com",
+      "membership": {
+        "Name": "Individual"
+      }
+    }
   ]
 }
