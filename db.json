@@ -171,8 +171,8 @@
         {
           "MembershipProgramId": "membership-1",
           "earlyBirdEligible": true,
-          "PriceAfterTax": 2000,
-          "EarlyBirdPriceAfterTaxes": 1100,
+          "PriceAfterTax": 1000,
+          "EarlyBirdPriceAfterTaxes": 950,
           "GeneralAccess": false
         },
         {
